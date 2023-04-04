@@ -27,7 +27,7 @@ const Home = () => {
           <Link to='/books' className='btn md:w-auto md:mr-4'>
             <div className='inline-flex items-center justify-center w-full h-full'>
               <p className='mr-3'>Visit Store</p>
-              <ShoppingCartIcon className='w-5 text-gray-800' />
+              <ShoppingCartIcon className='w-5 text-gray-100' />
             </div>
           </Link>
           <Link

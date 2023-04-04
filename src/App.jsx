@@ -9,6 +9,7 @@ const App = () => {
       {/* header section  */}
       <Header></Header>
       <Outlet></Outlet>
+      <div className='mt-10'></div>
       {/* footer section  */}
       <Footer></Footer>
     </div>
