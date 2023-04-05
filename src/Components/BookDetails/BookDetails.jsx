@@ -19,7 +19,7 @@ const BookDetails = () => {
   
   return (
     <div className="my-container2">
-      <div className=" border grid grid-cols-1 md:grid-cols-2 overflow-hidden items-center">
+      <div className=" border grid grid-cols-1  md:grid-cols-2 overflow-hidden items-center shadow-xl">
         <div className="h-full">
           <img
             src={image}

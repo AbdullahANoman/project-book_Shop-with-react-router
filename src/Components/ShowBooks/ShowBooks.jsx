@@ -17,7 +17,7 @@ const ShowBooks = ({ book }) => {
         <img
           src={image}
           alt="book cover"
-          className="object-cover w-full h-56 md:h-64 lg:h-80"
+          className="object-cover w-full  md:h-64 lg:h-80"
         />
         <div className="bg-black px-6 py-4 bg-opacity-75 opacity-0 hover:opacity-100 text-gray-300 absolute inset-0 transition-opacity duration-200 flex flex-col">
           <p className="text-xl font-bold">{title}</p>
